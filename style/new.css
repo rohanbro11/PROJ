@@ -1,0 +1,11 @@
+.newone::before{
+  content: "before";
+  color:red;
+  background-color: aqua;
+}
+.one::after{
+  content: "after";
+  color:red;
+  background-color: aqua;
+}
+
